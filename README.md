@@ -1,8 +1,6 @@
 # Hi there, I'm Minh Quốc 👋 (minhquoc2712)
 
-<p align="left">
-  <a href="https://git.io"><img src="https://demolab.com" alt="Typing SVG" /></a>
-</p>
+![Typing SVG](https://demolab.com)
 
 ---
 
@@ -17,85 +15,63 @@
 
 #### 💻 Software & Web Development
 * **Backend Languages:**
-  <p align="left">
-    <img src="https://shields.io" alt="JavaScript" />
-    <img src="https://shields.io" alt="NodeJS" />
-    <img src="https://shields.io" alt="Python" />
-    <img src="https://shields.io" alt="PHP" />
-    <img src="https://shields.io" alt="Java" />
-    <img src="https://shields.io" alt="Ruby" />
-  </p>
+  [![JavaScript](https://shields.io)](https://mozilla.org)
+  [![NodeJS](https://shields.io)](https://nodejs.org)
+  [![Python](https://shields.io)](https://python.org)
+  [![PHP](https://shields.io)](https://php.net)
+  [![Java](https://shields.io)](https://oracle.com)
+  [![Ruby](https://shields.io)](https://ruby-lang.org)
 
-* **Frontend Frameworks & Frontend Tech:**
-  <p align="left">
-    <img src="https://shields.io" alt="React" />
-    <img src="https://shields.io" alt="Vue" />
-    <img src="https://shields.io" alt="Angular" />
-    <img src="https://shields.io" alt="HTML5" />
-    <img src="https://shields.io" alt="CSS3" />
-    <img src="https://shields.io" alt="jQuery" />
-  </p>
+* **Frontend Frameworks & Tech:**
+  [![React](https://shields.io)](https://react.dev)
+  [![Vue](https://shields.io)](https://vuejs.org)
+  [![Angular](https://shields.io)](https://angular.io)
+  [![HTML5](https://shields.io)](https://mozilla.org)
+  [![CSS3](https://shields.io)](https://mozilla.org)
+  [![jQuery](https://shields.io)](https://jquery.com)
 
 * **UI/UX & CSS Libraries:**
-  <p align="left">
-    <img src="https://shields.io" alt="Tailwind" />
-    <img src="https://shields.io" alt="Bootstrap" />
-    <img src="https://shields.io" alt="Figma" />
-  </p>
+  [![Tailwind](https://shields.io)](https://tailwindcss.com)
+  [![Bootstrap](https://shields.io)](https://getbootstrap.com)
+  [![Figma](https://shields.io)](https://figma.com)
 
 * **Databases & APIs:**
-  <p align="left">
-    <img src="https://shields.io" alt="MySQL" />
-    <img src="https://shields.io" alt="PostgreSQL" />
-    <img src="https://shields.io" alt="MongoDB" />
-    <img src="https://shields.io💻-blue?style=for-the-badge" alt="REST" />
-    <img src="https://shields.io" alt="GraphQL" />
-  </p>
+  [![MySQL](https://shields.io)](https://mysql.com)
+  [![PostgreSQL](https://shields.io)](https://postgresql.org)
+  [![MongoDB](https://shields.io)](https://mongodb.com)
+  [![REST](https://shields.io)](https://restfulapi.net)
+  [![GraphQL](https://shields.io)](https://graphql.org)
 
 ---
 
 #### 🤖 Embedded Systems, Hardware & IC Design
 * **Hardware Languages:**
-  <p align="left">
-    <img src="https://shields.io" alt="C" />
-    <img src="https://shields.io" alt="C++" />
-    <img src="https://shields.io⚙️-green?style=for-the-badge" alt="Verilog" />
-  </p>
+  [![C](https://shields.io)](https://cppreference.com)
+  [![C++](https://shields.io)](https://cppreference.com)
+  [![Verilog](https://shields.io)](https://wikipedia.org)
 
 * **Engineering & Simulation Tools:**
-  <p align="left">
-    <img src="https://shields.io🎨-red?style=for-the-badge" alt="Altium" />
-    <img src="https://shields.io💻-orange?style=for-the-badge" alt="Vivado" />
-    <img src="https://shields.io" alt="Matlab" />
-    <img src="https://shields.io🔬-blue?style=for-the-badge" alt="Proteus" />
-  </p>
+  [![Altium](https://shields.io)](https://altium.com)
+  [![Vivado](https://shields.io)](https://xilinx.com)
+  [![Matlab](https://shields.io)](https://mathworks.com)
+  [![Proteus](https://shields.io)](https://labcenter.com)
 
 * **Infrastructure & Automation:**
-  <p align="left">
-    <img src="https://shields.io⚙️-232F3E?style=for-the-badge" alt="DevOps" />
-    <img src="https://shields.io🤖-FF6F20?style=for-the-badge" alt="Edge AI" />
-    <img src="https://shields.io" alt="Git" />
-  </p>
+  [![DevOps](https://shields.io)](https://wikipedia.org)
+  [![Edge AI](https://shields.io)](https://wikipedia.org)
+  [![Git](https://shields.io)](https://git-scm.com)
 
 ---
 
 ### 📊 GitHub Statistics
-<p align="center">
-  <img src="https://vercel.app" alt="Minh Quoc's GitHub Stats" height="180px" />
-  <img src="https://vercel.app" alt="Top Languages" height="180px" />
-</p>
+
+| **My Stats** | **Top Languages** |
+| :---: | :---: |
+| ![Minh Quoc's GitHub Stats](https://vercel.app) | ![Top Languages](https://vercel.app) |
 
 ---
 
 ### 🌐 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="https://facebook.com" target="_blank">
-    <img src="https://shields.io" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com" target="_blank">
-    <img src="https://shields.io" alt="Instagram" />
-  </a>
-</p>
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Facebook](https://shields.io)](https://facebook.com)
+[![Instagram](https://shields.io)](https://instagram.com)
