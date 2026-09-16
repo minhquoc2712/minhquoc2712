@@ -1,77 +1,92 @@
-# Hi there, I'm Minh Quốc 👋 (minhquoc2712)
+<h1 align="center">Hi 👋, I'm Ma Tran Minh Quoc</h1>
+<h3 align="center">Computer Engineering Student @ HCMUT | Backend-Leaning Software Engineer | Team Lead</h3>
 
-![Typing SVG](https://demolab.com)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+backend+systems+with+Java+%26+Spring+Boot;Leading+teams+from+idea+to+demo;Currently+prepping+for+HCMUT's+ICPC+team" alt="Typing SVG" />
+</p>
 
----
-
-### 👨‍🎓 About Me
-- 🏫 **Education:** K24 - **Computer Engineering** (Kỹ thuật Máy tính) at **Ho Chi Minh City University of Technology (HCMUT - Bách Khoa)**.
-- 🎯 **Major Focus:** **IoT (Internet of Things)**, **MCU/MPU Automation & Robotics** integrated with **AI Models** at the edge.
-- 💡 **Passions:** Building robust system operations, **Full-Stack Web Development**, and mastering **DevOps** architectures to optimize deployment.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-#### 💻 Software & Web Development
-* **Backend Languages:**
-  [![JavaScript](https://shields.io)](https://mozilla.org)
-  [![NodeJS](https://shields.io)](https://nodejs.org)
-  [![Python](https://shields.io)](https://python.org)
-  [![PHP](https://shields.io)](https://php.net)
-  [![Java](https://shields.io)](https://oracle.com)
-  [![Ruby](https://shields.io)](https://ruby-lang.org)
-
-* **Frontend Frameworks & Tech:**
-  [![React](https://shields.io)](https://react.dev)
-  [![Vue](https://shields.io)](https://vuejs.org)
-  [![Angular](https://shields.io)](https://angular.io)
-  [![HTML5](https://shields.io)](https://mozilla.org)
-  [![CSS3](https://shields.io)](https://mozilla.org)
-  [![jQuery](https://shields.io)](https://jquery.com)
-
-* **UI/UX & CSS Libraries:**
-  [![Tailwind](https://shields.io)](https://tailwindcss.com)
-  [![Bootstrap](https://shields.io)](https://getbootstrap.com)
-  [![Figma](https://shields.io)](https://figma.com)
-
-* **Databases & APIs:**
-  [![MySQL](https://shields.io)](https://mysql.com)
-  [![PostgreSQL](https://shields.io)](https://postgresql.org)
-  [![MongoDB](https://shields.io)](https://mongodb.com)
-  [![REST](https://shields.io)](https://restfulapi.net)
-  [![GraphQL](https://shields.io)](https://graphql.org)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mtmquoc"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:matranminhquoc000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/minhquoc2712"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-#### 🤖 Embedded Systems, Hardware & IC Design
-* **Hardware Languages:**
-  [![C](https://shields.io)](https://cppreference.com)
-  [![C++](https://shields.io)](https://cppreference.com)
-  [![Verilog](https://shields.io)](https://wikipedia.org)
+### 🚀 About Me
 
-* **Engineering & Simulation Tools:**
-  [![Altium](https://shields.io)](https://altium.com)
-  [![Vivado](https://shields.io)](https://xilinx.com)
-  [![Matlab](https://shields.io)](https://mathworks.com)
-  [![Proteus](https://shields.io)](https://labcenter.com)
-
-* **Infrastructure & Automation:**
-  [![DevOps](https://shields.io)](https://wikipedia.org)
-  [![Edge AI](https://shields.io)](https://wikipedia.org)
-  [![Git](https://shields.io)](https://git-scm.com)
+- 🎓 **Computer Engineering** student at **Ho Chi Minh City University of Technology (HCMUT – VNU-HCM)**, Class of 2028
+- 💼 Seeking a **Software Engineering Internship (Summer 2027)** — backend development with **Java / Spring Boot**
+- 🧩 I like taking projects from a blank repo to a working, demoed system — and I'm usually the one leading that process
+- 🏆 Currently preparing for **HCMUT's ICPC team selection exam** (competitive programming, C++)
+- 🍜 Also leading **BLANQ**, a community-powered web platform for discovering Vietnamese food & cultural destinations, built for **Bach Khoa Innovation 2026**
+- 📫 Reach me at **matranminhquoc000@gmail.com**
 
 ---
 
-### 📊 GitHub Statistics
+### 🛠️ Tech Stack
 
-| **My Stats** | **Top Languages** |
-| :---: | :---: |
-| ![Minh Quoc's GitHub Stats](https://vercel.app) | ![Top Languages](https://vercel.app) |
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
+**Backend & Databases**
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+</p>
+
+**DevOps, Cloud & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+</p>
+
+**Frontend & Web**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+</p>
+
+**Practices:** OOP · SOLID · Design Patterns · Agile/Scrum · UML · REST API
 
 ---
 
-### 🌐 Connect with Me
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Facebook](https://shields.io)](https://facebook.com)
-[![Instagram](https://shields.io)](https://instagram.com)
+### 🏗️ Featured Projects
+
+| Project | My Role | Stack | Highlights |
+|---|---|---|---|
+| **[Smart Logistics Tracking Platform](https://github.com/minhquoc2712)** | Team Lead | Java, Spring Boot, PostgreSQL, Docker, GitHub Actions | Real-time shipment tracking REST API, clean-architecture backend, containerized with an automated CI/CD pipeline |
+| **[Library Management System Refactor](https://github.com/minhquoc2712)** | Team Lead | Java, Design Patterns, SOLID | Rebuilt a legacy lending system into a modular architecture using Repository & Strategy patterns |
+| **[Team Task Management Web App](https://github.com/minhquoc2712)** | Team Lead | Agile/Scrum, UML, Swagger | Led a 5-person team through sprint planning and API documentation for smoother onboarding |
+| **[Multi-threaded Chat Application](https://github.com/minhquoc2712)** | Team Lead | Java, Sockets, TCP/UDP | Concurrent chat server with a custom protocol; used Wireshark to profile and optimize throughput |
+| **[BLANQ](https://github.com/minhquoc2712)** | Founder & Team Lead | Web Platform | Community-driven platform for Vietnamese food & cultural destinations — competing in Bach Khoa Innovation 2026 |
+
+> 💡 Tip: replace the placeholder links above with your actual repo URLs once they're public.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=minhquoc2712&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhquoc2712&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhquoc2712&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<p align="center"><i>Currently grinding competitive programming for the ICPC selection exam — always open to backend/full-stack internship opportunities.</i></p>
