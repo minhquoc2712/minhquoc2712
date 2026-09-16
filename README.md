@@ -2,8 +2,8 @@
 <h3 align="center">Computer Engineering Student @ HCMUT | Backend-Leaning Software Engineer | Team Lead</h3>
 
 <p align="center">
-  [<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+backend+systems+with+Java+%26+Spring+Boot;Leading+teams+from+idea+to+demo;Currently+prepping+for+HCMUT's+ICPC+team" alt="Typing SVG" />
-</p>](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=800&lines=Building+backend+systems+with+Java+%26+Spring+Boot;Leading+teams+from+idea+to+demo;Currently+prepping+for+HCMUT's+ICPC+team)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=800&lines=Building+backend+systems+with+Java+%26+Spring+Boot;Leading+teams+from+idea+to+demo;Currently+prepping+for+HCMUT's+ICPC+team" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mtmquoc"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
