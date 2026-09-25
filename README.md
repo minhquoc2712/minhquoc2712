@@ -62,20 +62,6 @@
 
 ---
 
-### 🏗️ Featured Projects
-
-| Project | My Role | Stack | Highlights |
-|---|---|---|---|
-| **[Smart Logistics Tracking Platform](https://github.com/minhquoc2712)** | Team Lead | Java, Spring Boot, PostgreSQL, Docker, GitHub Actions | Real-time shipment tracking REST API, clean-architecture backend, containerized with an automated CI/CD pipeline |
-| **[Library Management System Refactor](https://github.com/minhquoc2712)** | Team Lead | Java, Design Patterns, SOLID | Rebuilt a legacy lending system into a modular architecture using Repository & Strategy patterns |
-| **[Team Task Management Web App](https://github.com/minhquoc2712)** | Team Lead | Agile/Scrum, UML, Swagger | Led a 5-person team through sprint planning and API documentation for smoother onboarding |
-| **[Multi-threaded Chat Application](https://github.com/minhquoc2712)** | Team Lead | Java, Sockets, TCP/UDP | Concurrent chat server with a custom protocol; used Wireshark to profile and optimize throughput |
-| **[BLANQ](https://github.com/minhquoc2712)** | Founder & Team Lead | Web Platform | Community-driven platform for Vietnamese food & cultural destinations — competing in Bach Khoa Innovation 2026 |
-
-> 💡 Tip: replace the placeholder links above with your actual repo URLs once they're public.
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
